@@ -39,5 +39,10 @@ RUN dotnet publish -c Release -o out
 # Build runtime image
 FROM microsoft/dotnet:2.2-aspnetcore-runtime
 WORKDIR /app
+<<<<<<< HEAD
 COPY --from=build-env /app/out .
 CMD dotnet schoolsoftwareapi.dll
+=======
+COPY --from=publish /app/publish .
+CMD dotnet schoolsoftwareapi.dll
+>>>>>>> 0b0c235ae3c35f65b2427c3345eab14ea99b6915
