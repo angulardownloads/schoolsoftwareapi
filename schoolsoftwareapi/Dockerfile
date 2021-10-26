@@ -25,7 +25,7 @@
 
 
 
-FROM microsoft/dotnet:2.2-sdk AS build-env
+FROM mcr.microsoft.com/dotnet/aspnet:5.0 AS base
 WORKDIR /app
 
 # Copy csproj and restore as distinct layers
@@ -44,5 +44,5 @@ COPY --from=build-env /app/out .
 CMD dotnet schoolsoftwareapi.dll
 =======
 COPY --from=publish /app/publish .
-CMD dotnet schoolsoftwareapi.dll
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet schoolsoftwareapi.dll
 >>>>>>> 0b0c235ae3c35f65b2427c3345eab14ea99b6915
