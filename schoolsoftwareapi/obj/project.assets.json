@@ -287,11 +287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\schoolsoftwareapi\\schoolsoftwareapi\\schoolsoftwareapi.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\api\\schoolsoftwareapi\\schoolsoftwareapi\\schoolsoftwareapi.csproj",
       "projectName": "schoolsoftwareapi",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\schoolsoftwareapi\\schoolsoftwareapi\\schoolsoftwareapi.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\api\\schoolsoftwareapi\\schoolsoftwareapi\\schoolsoftwareapi.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\schoolsoftwareapi\\schoolsoftwareapi\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\api\\schoolsoftwareapi\\schoolsoftwareapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
