@@ -27,6 +27,13 @@ C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\
 C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\ref\schoolsoftwareapi.dll
 C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.pdb
 C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.genruntimeconfig.cache
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.AssemblyInfo.cs
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\bin\Debug\net5.0\appsettings.json
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\bin\Debug\net5.0\schoolsoftwareapi.exe
@@ -40,13 +47,6 @@ C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\bin\Debug\net5.0
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.csprojAssemblyReference.cache
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.AssemblyInfoInputs.cache
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.AssemblyInfo.cs
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\staticwebassets\schoolsoftwareapi.StaticWebAssets.Manifest.cache
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\staticwebassets\schoolsoftwareapi.StaticWebAssets.xml
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\scopedcss\bundle\schoolsoftwareapi.styles.css
