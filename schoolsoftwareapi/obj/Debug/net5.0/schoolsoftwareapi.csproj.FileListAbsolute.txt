@@ -55,3 +55,4 @@ C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\ref\schoolsoftwareapi.dll
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.pdb
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.genruntimeconfig.cache
+C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.csprojAssemblyReference.cache
