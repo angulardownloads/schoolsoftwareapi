@@ -27,7 +27,6 @@ C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\
 C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\ref\schoolsoftwareapi.dll
 C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.pdb
 C:\Users\DELL\source\repos\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.genruntimeconfig.cache
-C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.csprojAssemblyReference.cache
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.AssemblyInfoInputs.cache
 C:\Users\DELL\Documents\api\schoolsoftwareapi\schoolsoftwareapi\obj\Debug\net5.0\schoolsoftwareapi.AssemblyInfo.cs

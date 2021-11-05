@@ -51,7 +51,7 @@ namespace schoolsoftwareapi
             {
                
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-                c.RoutePrefix = String.Empty;
+                c.RoutePrefix = "swagger"+String.Empty;
             });
 
 
