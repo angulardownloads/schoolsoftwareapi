@@ -81,6 +81,17 @@ namespace schoolsoftwareapi
             {
                 endpoints.MapControllers();
             });
+
+            app.Use(async (context, next) =>
+            {
+                if (!context.Request.Path.Value.Contains("/swagger", StringComparison.OrdinalIgnoreCase))
+                {
+                    context.Response.Redirect("swagger");
+                    return;
+                }
+
+                await next();
+            });
         }
     }
 }
