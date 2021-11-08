@@ -7,6 +7,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using schoolsoftwareapi.Abstract;
+using schoolsoftwareapi.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,8 +43,9 @@ namespace schoolsoftwareapi
 
 
             });
+            services.AddTransient<IRegisterRepository, RegisterRepository>();
 
-          
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
