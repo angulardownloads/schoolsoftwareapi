@@ -153,8 +153,8 @@ namespace schoolsoftwareapi.Repository
 
                 using (IDbConnection dbConnection = Connection)
                 {
-                    string sQuery = "INSERT INTO Register (username,email,password,usertype,accounttype,license,registereddate,lastloggedin)"
-                                    + " VALUES(@username,@email, @password,@usertype,@accounttype,@license,@registereddate,@lastloggedin)";
+                    string sQuery = "INSERT INTO Register (username,phone,email,password,usertype,accounttype,license,registereddate,lastloggedin)"
+                                    + " VALUES(@username,@phone,@email, @password,@usertype,@accounttype,@license,@registereddate,@lastloggedin)";
                     dbConnection.Open();
                     dbConnection.Execute(sQuery, Emp);
 
